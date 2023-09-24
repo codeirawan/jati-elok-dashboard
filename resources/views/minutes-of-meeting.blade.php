@@ -35,7 +35,7 @@
                     dan
                     Kewajiban, PPA <br>
                     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Profesional Pemberi Asuhan) Dan
-                    Rekam Medis Elektornik <br>
+                    Rekam Medis Elektronik <br>
                     Lampiran &emsp; : <br> <br> <br>
                 </p>
 
@@ -114,7 +114,7 @@
                     <tr style="border-bottom: 1px solid #000;">
                         <td style="border-right: 1px solid #000;">&emsp;Acara</td>
                         <td style="border-right: 1px solid #000;">&nbsp;&nbsp;:&nbsp;&nbsp;</td>
-                        <td>&emsp;Sosialisasi SK Pelayanan Klinis, Hak dan Kewajiban, PPA (Profesional Pemberi Asuhan) DAN
+                        <td>&emsp;Sosialisasi SK Pelayanan Klinis, Hak dan Kewajiban, PPA (Profesional Pemberi Asuhan) Dan
                             <br>
                             &emsp;Rekam Medis Elektronik
                         </td>
@@ -260,7 +260,7 @@
         </tr>
     </table>
     {{-- Page 4 --}}
-    <table width="100%">
+    <table width="100%" cellspacing="20" cellpadding="20">
         <tr>
             <td width="20%">
                 <img src="{{ public_path('images/icon.png') }}" alt="Clinic Icon" width="150px" height="150px">
