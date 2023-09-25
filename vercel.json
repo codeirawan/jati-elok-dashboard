@@ -8,11 +8,15 @@
         {
             "src": "/(.*)",
             "dest": "/api/index.php"
+        },
+        {
+            "src": "/public/(.*)",
+            "dest": "/public/$1"
         }
     ],
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "false",
+        "APP_DEBUG": "true",
         "APP_URL": "https://jatielok.vercel.app/",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
