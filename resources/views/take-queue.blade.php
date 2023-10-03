@@ -38,9 +38,9 @@
                 </div>
                 <div class="card-header text-center">
                     <h3>Jumlah antrian sebelumnya:</h3> <br>
-                    <h1>19 Antrian</h1> <br>
+                    <h1>10 Antrian</h1> <br>
                     <h3>Perkiraan waktu tunggu Dokter:</h3>
-                    <h1>20-30 menit</h1> <br>
+                    <h1>30-40 menit</h1> <br>
                 </div>
             </div>
         </div>
@@ -53,9 +53,9 @@
                 </div>
                 <div class="card-header text-center">
                     <h3>Jumlah antrian sebelumnya:</h3> <br>
-                    <h1>19 Antrian</h1> <br>
+                    <h1>4 Antrian</h1> <br>
                     <h3>Perkiraan waktu tunggu Bidan:</h3>
-                    <h1>20-30 menit</h1> <br>
+                    <h1>10-20 menit</h1> <br>
                 </div>
             </div>
         </div>

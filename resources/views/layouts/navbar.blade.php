@@ -2,7 +2,7 @@
      <div class="container align-content-between">
          <!-- Logo on the left -->
          <div class="ml-3 d-md-none d-lg-block">
-             <a class="navbar-brand" href="#">
+             <a class="navbar-brand" href="/">
                  <img src="{{ asset('images/logo.png') }}" alt="Your Logo" width="180" height="70">
              </a>
          </div>
